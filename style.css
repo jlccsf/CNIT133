@@ -1,0 +1,39 @@
+body {  
+    /* display: grid;
+    grid-template-columns: 
+        [full-start] minmax(1em, 1fr) 
+        [main-start] minmax(0, 40em) [main-end]
+        minmax(1em, 1fr) [full-end]; */
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin: 2rem 10%;
+    font-family: "Noto Sans", sans-serif;
+    background-color: #fff; 
+  }
+
+a {
+    text-decoration: none;
+    color: #e28441;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.content {
+    font-size: 16px;
+    display: flex;
+    justify-content: baseline;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 2rem; 
+    color: #666;
+    line-height: 1.5rem;
+    margin: 2rem 0 0 22rem;
+}
+  
