@@ -1,0 +1,36 @@
+body {
+    background:#fff;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  
+content {
+    display: block;
+    width: 600px;
+    margin: 90px auto auto auto;
+
+    background-color: #fff;
+  }
+
+  #task {
+    text-align: center;
+  }
+
+  #ab {
+      color: red;
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+  #onetwo {
+    color: blue;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+  }
+
+  #threefour {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+

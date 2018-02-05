@@ -1,0 +1,1 @@
+document.write('<p><span id="ab">ab </span><span id="onetwo">12 </span><span id="threefour">34 </span>');

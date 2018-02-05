@@ -1,0 +1,28 @@
+body {
+  background: cyan;
+}
+
+h2 {
+  text-align: center;
+}
+
+#navbar-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#navbar-content {
+  width: 400px;
+  color: blue;
+  background-color: lightgrey;
+  margin: 1rem 0 0 0;
+}
+
+#items {
+  display: block;
+  width: 600px;
+  margin: 90px auto auto auto;
+  border: 2px dashed blue;
+  background-color: #fff;
+}
